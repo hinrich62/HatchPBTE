@@ -1,5 +1,5 @@
 # HatchPBTE
-A statistical tool to estimate the proportion of hatchery-origin spawners using generalized least squares
+A statistical tool to estimate the proportion of hatchery-origin spawners using maximum likelihood estimation with parentage-based tagging
 Filename | Description
 ---------| -----------
 hatchpbte.R | R-code to run to estimate standard errors and power
